@@ -1,4 +1,4 @@
-#Recursion
+# Recursion
 
 Recursion is doing the same thing over again. Recursion, is doing the same thing over again. In some cases it is repeating the same action of a mathematical formula. However it is much more than that. It can enable you to travese down a tree by returning values through a Call Stack. You can iterate through data from an AJAX call to create repeated web components. Regardless of the application, thinking of yourself as the thing that is recursing can help - the state at each call stack frame. You are the function and you need information to complete the task that you have. We will make use of this frame of thinking to discuss a few applications of recursion. 
 
