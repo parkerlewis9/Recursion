@@ -1,0 +1,20 @@
+{
+  "name": "mathematical-factorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "factorial.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.1"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
