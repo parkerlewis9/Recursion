@@ -1,4 +1,4 @@
-module.exports = function factorial (n) {
-    if (n <= 1) return 1
-    return n * factorial(n - 1)
+module.exports = function factorial (p) {
+    if (p === 0) return 1
+    return p * factorial(p - 1)
 };
