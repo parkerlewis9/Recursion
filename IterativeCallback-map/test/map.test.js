@@ -1,5 +1,5 @@
 const expect = require("chai").expect;
-const map = require("../map_solution");
+const map = require("../map");
 
 describe("#map", () => {
     const double = p => p *2;
