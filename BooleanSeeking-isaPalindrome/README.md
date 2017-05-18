@@ -1,0 +1,3 @@
+# Boolean Seeking Recursion
+
+Some problems that ask us to determine if something is true or false are easily solved recursively. The example we will explore will ask us to determine if a word is or is not a palindrome. In solving this we will employ a useful tactic; slicing our data into smaller subunits until the boolean is determined or our base case is reached. Note what we are doing here by recoginizing the opportunity to use this tactic. We are setting up and controlling the recusion by deciding that the times we recurse is defined by the length of the input. When the input's length is one or zero, we know we have searched through all of the given data. We can now work with the stack to visualize the recursion in progress.
