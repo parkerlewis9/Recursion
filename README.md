@@ -6,7 +6,7 @@ This repo consists of modules which contain a skeleton of a function and test ca
 
 1) Iterative type problem - factorial
 
-2) Boolean return - isAPalindrome
+2) Boolean return - isaPalindrome
 
 3) callback iterative - map
 

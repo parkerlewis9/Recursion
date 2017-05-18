@@ -1,13 +1,14 @@
 {
   "name": "mathematical-factorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "Of the types of problems we will encounter, these algorithms solve the most theoritcal by nature. Algorithms which return the factorial of a number or the value at an index of the Fibonacci sequence are examples of mathematical formulas in code. We will use the definition of a factorial function to give us an approach to solving all types of recursive problems.",
   "main": "factorial.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "chai": "^3.5.0"
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
   },
   "devDependencies": {
     "mocha": "^3.4.1"
