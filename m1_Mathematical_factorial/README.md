@@ -34,3 +34,8 @@ These assertions ground our recusion at an ending point from which we can do pre
 For our algorithm to do anything, it also needs a __recursive step__. This is where we actually do the action again -- p! = p x __(p -1)!__ . 
 
 Our recursive step in programming is calling our function from within our function. It is therefore helpful to have a visual represenation of a language's call stack which registers function calls. This is where the magic is really happening with recursion, so we will make a visual representation of the stack and follow its function calls to create new stack frames as well its return statements which bring us back closer to our ultimate goal.
+
+
+
+
+Learning how to recurse first, then we can cover edge cases and added functionality.
