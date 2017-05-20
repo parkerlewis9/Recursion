@@ -20,3 +20,5 @@ This is on trees (and graphs?) vvv
 6) Sorting??
 
 Note: The test command for all modules is npm test. All dependencies are loaded for you.
+
+Note the project is setup to install and run these utilities via npm scripts. 
