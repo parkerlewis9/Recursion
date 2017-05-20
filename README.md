@@ -2,7 +2,11 @@
 
 Recursion is doing the same thing over again. Recursion, is doing the same thing over again. In some cases it is repeating the same action of a mathematical formula. However it is much more than that. It can enable you to travese down a tree by returning values through a call stack. You can iterate through data from an AJAX call to create repeated web components. Regardless of the application, thinking of yourself as the thing that is recursing can help - the state at each call stack frame. You are the function and you need information to complete the task that you have. You are always asking the yourself the question, "What do I want to return?" We will make use of this frame of thinking to discuss a few applications of recursion. 
 
-This repo consists of modules which contain a skeleton of a function and test cases for that function. Implement the functions using the guidance in the accompaning README.md file. 
+This repo consists of modules corresponding to different archetypes of recursive algorithms. Each contains an explanation of the type of recursion to be implemented. The skeleton of a function and test cases for that function are provided for you to practice the topics discussed. Running `npm test` in each module will run the code in the file corresponding to the name of the directory. 
+
+The modules of this repository can be used in different ways
+
+
 
 1) Iterative type problem - factorial
 
