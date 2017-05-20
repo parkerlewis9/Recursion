@@ -4,11 +4,8 @@ Recursion is doing the same thing over again. Recursion, is doing the same thing
 
 This repo consists of modules corresponding to different archetypes of recursive algorithms. Each contains an explanation of the type of recursion to be implemented. The skeleton of a function and test cases for that function are provided for you to practice the topics discussed. Running `npm test` in each module will run the code in the file corresponding to the name of the directory. 
 
-The modules of this repository can be used in different ways
 
-
-
-1) Iterative type problem - factorial
+1) [Mathmatical Recursion](./m1_Mathematical_factorial)
 
 2) Boolean return - isaPalindrome
 
