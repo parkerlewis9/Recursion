@@ -33,9 +33,17 @@ These assertions ground our recusion at an ending point from which we can do pre
 
 For our algorithm to do anything, it also needs a __recursive step__. This is where we actually do the action again -- p! = p x __(p -1)!__ . 
 
-Our recursive step in programming is calling our function from within our function. It is therefore helpful to have a visual represenation of a language's call stack which registers function calls. This is where the magic is really happening with recursion, so we will make a visual representation of the stack and follow its function calls to create new stack frames as well its return statements which bring us back closer to our ultimate goal.
+Our recursive step in programming is calling our function from within our function. It is therefore helpful to have a visual represenation of a language's call stack which registers function calls. This is where the magic is really happening with recursion, so we will make a visual representation of the stack and follow its function calls to create new stack frames as well as the function's return statements which bring us back closer to our ultimate goal.
+
+##### In a future version of this repository a video walkthrough of drawing the stack diagram will be at the end of this file. 
+
+Important concepts to to take away when writing stack diagrams:
+
+- Begin with the end
+    ...Establish in your mind, or by writing all (empty) stack frames, the base case for your algorithm. Begin by thinking, "What do I need to return from my base case to begin building my final return value?""
+
+- Interpret line by line
+    ...All of these alogorithms can be be solved with relatively little code. When thinking through possible code or checking code you think is correct, transfer all relevant variables and function calls to your diagram. Keep track of changes and returns to function calls in each stack frame.
 
 
-
-
-Learning how to recurse first, then we can cover edge cases and added functionality.
+Now write your implementation of the `factorial` function found in `factorial.js`. Tests are provided in `test/factorial.test.js`. Take a look at these to get an idea of the inputs and outputs of the algorithm. Then, enter `npm test` into your terminal to check your solution. Refactor until your function passes the provided tests. An example solution can be found in `isaPalindrome_solution.js`.

@@ -15,6 +15,6 @@ In this repo you will find modules corresponding to different archetypes of recu
 
 4) [Accumulating Recursion](./m4_Accumulating_map)
 
-##### A talk associated with the repository will be given on Wendesday May 24 at 6:00 pm. This talk will explain the call stack in more depth and show how to draw stack diagrams in order to visually represent recursion in action. A video of the talk will be linked once it has been give. Here is the link to the event page: [Nail Your Technical Interview: Recursion](https://www.eventbrite.com/e/nail-your-technical-interview-recursion-tickets-34126501284)
+##### A talk associated with the repository will be given on Wendesday May 24 at 6:00 pm. This talk will explain the call stack in more depth and show how to draw stack diagrams in order to visually represent recursion in action. A video of the talk will be linked once it has been given. Here is the link to the event page: [Nail Your Technical Interview: Recursion](https://www.eventbrite.com/e/nail-your-technical-interview-recursion-tickets-34126501284)
 
     
