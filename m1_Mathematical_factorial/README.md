@@ -47,3 +47,14 @@ Important concepts to to take away when writing stack diagrams:
 
 
 Now write your implementation of the `factorial` function found in `factorial.js`. Tests are provided in `test/factorial.test.js`. Take a look at these to get an idea of the inputs and outputs of the algorithm. Then, enter `npm test` into your terminal to check your solution. Refactor until your function passes the provided tests. An example solution can be found in `isaPalindrome_solution.js`.
+
+
+___________________________
+
+0) [Recursion](../)
+
+2) [Boolean Seeking Recursion](../m2_BooleanSeeking_isaPalindrome)
+
+3) [Iterative Recursion](../m3_IterativeCallback_reduce)
+
+4) [Accumulating Recursion](../m4_Accumulating_map)
