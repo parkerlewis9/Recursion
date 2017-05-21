@@ -52,7 +52,9 @@ Now write your implementation of the `factorial` function found in `factorial.js
 
 ___________________________
 
-0) [Recursion](../)
+0) [Recursion](../Recursion)
+
+1) Mathematical Recursion
 
 2) [Boolean Seeking Recursion](../m2_BooleanSeeking_isaPalindrome)
 
