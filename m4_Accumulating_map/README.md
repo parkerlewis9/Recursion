@@ -1,6 +1,6 @@
 # Accumulating Recursion
 
- map() will return a new array with the modified numbers.
+map() will return a new array with the modified numbers.
 
 Notice here that we employ same tactic as we did in our boolean seeking recursion: calling the recursive step on smaller and smaller subsets the input until the input is empty.
 
