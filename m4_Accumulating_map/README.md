@@ -12,3 +12,16 @@ The callback can be very complex, but the recursion is simple and elegent.
 
 
 Mapping functions are useful when you want to transform all units of your data in the same way. Our function will take an array of numbers and a callback function to modify the numbers.
+
+
+___________________________
+
+0) [Recursion](https://github.com/parkerlewis9/Recursion)
+
+1) [Mathematical Recursion](../m1_Mathematical_factorial)
+
+2) [Boolean Seeking Recursion](../m2_BooleanSeeking_isaPalindrome)
+
+3) [Iterative Recursion](../m3_IterativeCallback_reduce)
+
+4) Accumulating Recursion
