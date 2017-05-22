@@ -9,3 +9,16 @@ Notice again to opportunity to successively cut our data into smaller increments
 ##### A video dissecting this algorithm using a stack diagram will be provided in future versions of this repository.
 
 Now it is your turn again. Check out the tests in `test/reduce.test.js`. Then implement `reduce` in `reduce.js` and run `npm test` to check your solutions. A solution is provided in `reduce_solution.js` if you have trouble.
+
+
+___________________________
+
+0) [Recursion](https://github.com/parkerlewis9/Recursion)
+
+1) [Mathematical Recursion](../m1_Mathematical_factorial)
+
+2) [Boolean Seeking Recursion](../m2_BooleanSeeking_isaPalindrome)
+
+3) Iterative Recursion
+
+4) [Accumulating Recursion](../m4_Accumulating_map)
