@@ -9,3 +9,15 @@ Note the advantage we now have by recoginizing the opportunity to use this tacti
 ##### A video dissecting this algorithm using a stack diagram will be provided in future versions of this repository.
 
 Check the desired inputs and outputs to the `isaPalindrome` function found in `test/isaPalindrome.test.js` file and run `npm test` to check your solution. A solution is provided in `isaPalindrome_solution.js`.
+
+___________________________
+
+0) [Recursion](https://github.com/parkerlewis9/Recursion)
+
+1) [Mathematical Recursion](../m1_Mathematical_factorial)
+
+2) Boolean Seeking Recursion
+
+3) [Iterative Recursion](../m3_IterativeCallback_reduce)
+
+4) [Accumulating Recursion](../m4_Accumulating_map)
