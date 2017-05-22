@@ -52,7 +52,7 @@ Now write your implementation of the `factorial` function found in `factorial.js
 
 ___________________________
 
-0) [Recursion](../README.md)
+0) [Recursion](https://github.com/parkerlewis9/Recursion)
 
 1) Mathematical Recursion
 
