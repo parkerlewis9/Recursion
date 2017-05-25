@@ -48,7 +48,7 @@ Important concepts to to take away when writing stack diagrams:
     - All of these alogorithms can be be solved with relatively little code. When thinking through possible code or checking code you think is correct, transfer all relevant variables and function calls to your diagram. Keep track of changes and returns to function calls in each stack frame.
 
 
-Now write your implementation of the `factorial` function found in `factorial.js`. Tests are provided in `test/factorial.test.js`. Take a look at these to get an idea of the inputs and outputs of the algorithm. Then, enter `npm test` into your terminal to check your solution. Refactor until your function passes the provided tests. An example solution can be found in `isaPalindrome_solution.js`.
+Now write your implementation of the `factorial` function found in `factorial.js`. Tests are provided in `test/factorial.test.js`. Take a look at these to get an idea of the inputs and outputs of the algorithm. Run `npm install` to install the testing dependencies. Then, enter `npm test` into your terminal to check your solution. Refactor until your function passes the provided tests. An example solution can be found in `isaPalindrome_solution.js`.
 
 ___________________________
 

@@ -8,7 +8,7 @@ Note the advantage we now have by recoginizing the opportunity to use this tacti
 
 ##### A video dissecting this algorithm using a stack diagram will be provided in future versions of this repository.
 
-Check the desired inputs and outputs to the `isaPalindrome` function found in `test/isaPalindrome.test.js` file and run `npm test` to check your solution. A solution is provided in `isaPalindrome_solution.js`.
+Check the desired inputs and outputs to the `isaPalindrome` function found in `test/isaPalindrome.test.js` file, run `npm install`, and then run `npm test` to check your solution. A solution is provided in `isaPalindrome_solution.js`.
 
 ___________________________
 

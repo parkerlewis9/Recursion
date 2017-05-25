@@ -8,7 +8,7 @@ Notice again to opportunity to successively cut our data into smaller increments
 
 ##### A video dissecting this algorithm using a stack diagram will be provided in future versions of this repository.
 
-Now it is your turn again. Check out the tests in `test/reduce.test.js`. Then implement `reduce` in `reduce.js` and run `npm test` to check your solutions. A solution is provided in `reduce_solution.js` if you have trouble.
+Now it is your turn again. Check out the tests in `test/reduce.test.js`. Then implement `reduce` in `reduce.js`, run `npm install`, and run `npm test` to check your solutions. A solution is provided in `reduce_solution.js` if you have trouble.
 
 
 ___________________________

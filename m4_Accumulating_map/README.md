@@ -8,7 +8,7 @@ Notice here that we employ the same tactic as we did in our Boolean Seeking and 
 
 We will implement `map` for one case (a simple addition callback) which can lead to solving for more complex ones (reducing an array of objects) without any or much more needed work. That however will be left as an exercise, as it is another case of distraction from the concern of this repository: recursion.
 
-Implement `map` in `map.js`. Check your solution by running the tests in `test/map.test.js` using `npm test`.
+Implement `map` in `map.js`. Check your solution by running the tests in `test/map.test.js` using `npm test` after running `npm install`.
 
 
 
