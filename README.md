@@ -20,4 +20,4 @@ In this repo you will find modules corresponding to different archetypes of recu
 
 Click on this image to view a video of a talk I gave on Recursion:
 
-[![Recursion Talk Video - 5/24/17 - Galvanize](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Recursion Talk Video - 5/24/17 - Galvanize")](https://www.youtube.com/watch?v=WQwDhj0UYoM&t=3831s)
+[![Recursion Talk Video - 5/24/17 - Galvanize](./images/RecursionTalk.png")](https://www.youtube.com/watch?v=WQwDhj0UYoM)
