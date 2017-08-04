@@ -20,4 +20,5 @@ In this repo you will find modules corresponding to different archetypes of recu
 
 Click on this image to view a video of a talk I gave on Recursion:
 
-<a href="https://www.youtube.com/watch?v=WQwDhj0UYoM" target="_blank"><img src="images/RecrusionTalk.png" alt="Recursion Talk Video - 5/24/17 - Galvanize"/></a>
+<a href="https://www.youtube.com/watch?v=WQwDhj0UYoM" target="_blank"><img src="./images/RecrusionTalk.png" alt="Recursion Talk Video - 5/24/17 - Galvanize"></a>
+
