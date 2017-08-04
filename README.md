@@ -7,13 +7,13 @@ Regardless of the application, thinking of yourself as the thing that is recursi
 In this repo you will find modules corresponding to different archetypes of recursive algorithms. Each contains an explanation of the type of recursion to be implemented. The skeleton of a function and test cases for that function are provided for you to practice the topics discussed. Running `npm test` in each module will run the code in the file corresponding to the name of the directory. There is a sequence to the modules, but each can be run individually as well.
 
 
-1) [Mathmatical Recursion](./m1_Mathematical_factorial)
+1) [Mathmatical Recursion](./modules/m1_Mathematical_factorial)
 
-2) [Boolean Seeking Recursion](./m2_BooleanSeeking_isaPalindrome)
+2) [Boolean Seeking Recursion](./modules/m2_BooleanSeeking_isaPalindrome)
 
-3) [Iterative Recursion](./m3_IterativeCallback_reduce)
+3) [Iterative Recursion](./modules/m3_IterativeCallback_reduce)
 
-4) [Accumulating Recursion](./m4_Accumulating_map)
+4) [Accumulating Recursion](./modules/m4_Accumulating_map)
 
 
 ------------------------------------------------------------------------------------------------------
