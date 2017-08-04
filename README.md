@@ -4,7 +4,7 @@ Recursion is doing the same thing over again. Recursion, is doing the same thing
 
 Regardless of the application, thinking of yourself as the thing that is recursing can help. You are the function and you need information to complete the task that you have. You are always asking the yourself the question: "What do I want to return?". We will make use of this frame of thinking and look into helpful patterns to demistify the magic of recursive algorithms.
 
-In this repo you will find modules corresponding to different archetypes of recursive algorithms. Each contains an explanation of the type of recursion to be implemented. The skeleton of a function and test cases for that function are provided for you to practice the topics discussed. Running `npm test` in each module will run the code in the file corresponding to the name of the directory. There is a sequence to the modules, but each can be run individually as well. 
+In this repo you will find modules corresponding to different archetypes of recursive algorithms. Each contains an explanation of the type of recursion to be implemented. The skeleton of a function and test cases for that function are provided for you to practice the topics discussed. Running `npm test` in each module will run the code in the file corresponding to the name of the directory. There is a sequence to the modules, but each can be run individually as well.
 
 
 1) [Mathmatical Recursion](./m1_Mathematical_factorial)
@@ -15,6 +15,9 @@ In this repo you will find modules corresponding to different archetypes of recu
 
 4) [Accumulating Recursion](./m4_Accumulating_map)
 
-##### A talk associated with the repository will be given on Wendesday May 24 at 6:00 pm. This talk will explain the call stack in more depth and show how to draw stack diagrams in order to visually represent recursion in action. A video of the talk will be linked once it has been given. Here is the link to the event page: [Nail Your Technical Interview: Recursion](https://www.eventbrite.com/e/nail-your-technical-interview-recursion-tickets-34126501284)
 
-    
+------------------------------------------------------------------------------------------------------
+
+Click on this image to view a video of a talk I gave on Recursion:
+
+[![Recursion Talk Video - 5/24/17 - Galvanize](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Recursion Talk Video - 5/24/17 - Galvanize")](https://www.youtube.com/watch?v=WQwDhj0UYoM&t=3831s)
